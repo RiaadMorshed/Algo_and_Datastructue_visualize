@@ -46,9 +46,6 @@ I wanted to improve my skills with React.js, JavaScript, CSS and also learn sort
 
 7. `Heap sort` is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements. With worst-case time complexity being Ο(n log(n)), it is one of the most respected algorithms.
 
-## Design
-
-![home](https://github.com/anandman03/algorithm-visualizer-react-app/blob/main/public/home.PNG)
 
 ## Lisence
 
